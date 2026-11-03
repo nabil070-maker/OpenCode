@@ -12,7 +12,7 @@ $ProgressPreference    = "SilentlyContinue"  # much faster Invoke-WebRequest on 
 # ---------------------------------------------------------------------------
 # Config
 # ---------------------------------------------------------------------------
-$NodeVersion = "24.20.0"
+$NodeVersion = "26.13.0"
 $OpenCodePackage = "opencode-ai@latest"
 
 # ---------------------------------------------------------------------------
